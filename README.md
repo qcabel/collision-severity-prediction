@@ -9,10 +9,9 @@ This project aimed at predicting collision severity based on a dataset hosted by
     2. with injury
 * Three types of heuristical code (collision type, SDOT/state assigned code) used to describe the accident
 * Other descriptive features
-    * Categorical features, such as weather, road conditions
-    * Number of people/vehicles involved in the collision
-    * Time of the collision
-    * Location features, such exact location or address/junction type
+    * Categorical features, such as weather, road conditions, and address/junction type of the accident
+    * Discrete but comparable features, <em>e.g.</em>, number of people/vehicles involved in the collision
+    * Continuous features: time of the collision, and exact location 
 
 ## Model
 * Tree models to predict the severity level of the accidents
