@@ -4,6 +4,7 @@ This project aimed at predicting collision severity based on a dataset hosted by
 
 ---
 ## Data
+Source of the dataset: https://data-seattlecitygis.opendata.arcgis.com/datasets/collisions
 * Severity level of the collision: 
     1. property damage only; 
     2. with injury
