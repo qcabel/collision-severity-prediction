@@ -27,7 +27,9 @@ What would lead to more severe collision?
 * About 1/3 of all collisions are collisions with injury
 * Accidents involving pedestrian or cyclist are more likely to be severe with injury
     * A certain lane segments tend to involve more cyclists in collision, which requires further investigations
+    * For map overlay of accident frequency, see [nbviewer](https://nbviewer.jupyter.org/github/qcabel/collision-severity-prediction/blob/main/collision_visualization.ipynb)
 * Left turn and angled collision is more likely to cause injury
 * Severe accidents tend to happen at intersection
 * Raining/wet road slightly elevates the probability of more severe accidents
-* The latitude matters more in predicting severe collision (Seattle is bounded by water along longitude)
+* The latitude matters more in predicting severe collision 
+
